@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelPart
+  - SecondCamera
+  - BulletSpawn
+  - Enemy
+  - Dummie
+  - Ammo
+  - Weapon
+  - Fire
+  - lvl1
+  - Dummie1
+  - Bullet
+  - D3
+  - D4
+  - D5
+  - D6
+  - D7
+  - D8
+  - D9
+  - D10
+  - D11
+  - D12
+  - D13
+  - D14
+  - D15
+  - D16
+  - D17
+  - D18
+  - D19
+  - D20
+  - D21
+  - D22
+  - D23
+  - D24
+  - D25
+  - D26
+  - D27
+  - D28
+  - D29
+  - D30
+  - lvl2
+  - D31
+  - explosion
+  - expTrail
+  - exp2
+  - exp3
+  - exp4
+  - exp5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
